@@ -1533,7 +1533,7 @@ function EnvOpt($needUpdate = 0)
     }
     $html .= '
 <a href="'.$preurl.'">'.getconstStr('Back').'</a>&nbsp;&nbsp;&nbsp;<a href="'.$_SERVER['base_path'].'">'.getconstStr('Back').getconstStr('Home').'</a><br>
-<a href="https://github.com/qkqpttgf/OneManager-php">Github</a><br>';
+<a href="https://github.com/jiudu-cmd/jdy">Github</a><br>';
 
     $html .= '
 <table border=1 width=100%>
