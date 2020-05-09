@@ -9,9 +9,13 @@
     <meta name="keywords" content="<?php echo $n_path;?>,<?php if ($p_path!='') echo $p_path.','; echo $_SERVER['sitename'];?>,OneManager,auth_by_逸笙">
     <link rel="icon" href="<?php echo $_SERVER['base_disk_path'];?>favicon.ico" type="image/x-icon" />
     <link rel="shortcut icon" href="<?php echo $_SERVER['base_disk_path'];?>favicon.ico" type="image/x-icon" />
+ &nbsp;
+   	    <center>
+        <iframe width="350" scrolling="no" height="20" frameborder="0" allowtransparency="true" src="//i.tianqi.com/index.php?c=code&id=11&color=#fffffb&bgc=%23&icon=1&site=10&background-color:#00ae9d"></iframe>
+        </center>
     <style type="text/css">
         body{margin:0;padding:0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:14px;line-height:1em;color:#000;background-color:#F9FAFB;}
-        .topbar{width:100%;height:40px;background-color:＃00ae9d;}
+        .topbar{width:100%;height:40px;background-color:#00ae9d;}
         .topbar .login{display:block;line-height:40px;color:#ffffff;margin-left:10%;float:left;}
         .topbar .login ion-icon{display:block;height:40px;line-height:40px;margin-right:5px;float:left;}
         .topbar .operate{display:block;line-height:40px;color:#ffffff;margin-left:10%;float:left;}
@@ -19,10 +23,6 @@
         .topbar .operate ion-icon{display:block;height:40px;line-height:40px;margin-right:5px;float:left;}
         a{color:#171D33;cursor:pointer;text-decoration:none;}
         ion-icon{font-size:15px;vertical-align:middle;}
-      &nbsp;
-   	    <center>
-        <iframe width="350" scrolling="no" height="20" frameborder="0" allowtransparency="true" src="//i.tianqi.com/index.php?c=code&id=11&color=#fffffb&bgc=%23&icon=1&site=10&background-color:#00ae9d"></iframe>
-        </center>
         .changelanguage{display:block;height:30px;line-height:30px;float:right;margin-right:10%;margin-top:5px;}
         .title{text-align:center;margin-top:1rem;letter-spacing:2px;margin-bottom:2rem;}
         .title a{color:#171D33;line-height:42px;font-size:32px;text-decoration:none}
