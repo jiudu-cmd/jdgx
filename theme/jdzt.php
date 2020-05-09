@@ -1,5 +1,4 @@
 
-<!-- theme purenice designed & coded by wendale v1.1 Responsive fixed on May 1st-->
 <!DOCTYPE html>
 <html lang="<?php echo $constStr['language']; ?>">
 <head>
